@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React Employee Tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Motivation
+
+The goal of this project is to create a searchable employee database for employers to search through.
+
+This app utilizes an API that generates a random person. Documentation can be found [here](https://randomuser.me/).
 
 ## Available Scripts
 
