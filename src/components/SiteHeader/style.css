@@ -1,0 +1,20 @@
+.wrapper {
+  height: 200px;
+  background-color: rgb(255, 176, 244);
+  display: flex;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  vertical-align: middle;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: xx-large;
+}
+
+.tagline {
+  font-size: large;
+}
