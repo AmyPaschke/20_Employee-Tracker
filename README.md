@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+View the deployed application [here](https://amypaschke.github.io/20_Employee-Tracker/).
+
 ## Motivation
 
 The goal of this project is to create a searchable employee database for employers to search through.
