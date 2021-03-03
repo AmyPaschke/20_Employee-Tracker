@@ -1,0 +1,30 @@
+.centerpiece {
+  height: 20px;
+  background-color: rgb(255, 176, 244);
+  display: flex;
+  align-items: flex-end;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+}
+.loader {
+  display: grid;
+  border: 1px;
+  border-radius: 15px;
+  border-color: rgb(22, 22, 22);
+  background-color: rgb(216, 216, 216);
+  grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  grid-template-rows: 15px;
+}
+
+.squarewhite {
+  width: 30;
+  height: 15px;
+  background-color: rgb(216, 216, 216);
+}
+
+.squaregrey {
+  width: 60px;
+  height: 15px;
+  background-color: rgb(36, 8, 25);
+}
