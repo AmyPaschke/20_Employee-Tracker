@@ -6,9 +6,7 @@ function SiteHeader() {
     <div className="wrapper">
       <div className="title">Employee Directory</div>
       <br></br>
-      <div className="tagline">
-        All Relevant Information on All Employees, All the Time
-      </div>
+      <div className="tagline">Search for your employees!</div>
     </div>
   );
 }
